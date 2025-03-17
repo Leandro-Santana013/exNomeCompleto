@@ -5,4 +5,4 @@ string  nome, sobrenome;
     nome = Console.ReadLine();
     Console.WriteLine("Digite seu sobrenome: ");
     sobrenome = Console.ReadLine();
-    Console.WriteLine($"Seu nome completo é: {nome} {sobrenome}");
+    Console.WriteLine($"Seu nome completo é: {sobrenome} {nome}");
