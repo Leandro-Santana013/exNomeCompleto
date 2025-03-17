@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\bin\Debug\net9.0\exNomeCompleto.exe
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\bin\Debug\net9.0\exNomeCompleto.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\bin\Debug\net9.0\exNomeCompleto.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\bin\Debug\net9.0\exNomeCompleto.dll
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\bin\Debug\net9.0\exNomeCompleto.pdb
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.dll
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\refint\exNomeCompleto.dll
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.pdb
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\exNomeCompleto.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exNomeCompleto\obj\Debug\net9.0\ref\exNomeCompleto.dll
